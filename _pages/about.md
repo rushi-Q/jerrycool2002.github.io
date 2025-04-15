@@ -28,17 +28,13 @@ My research interest includes LLM, Modular Learning and AI Agents.
 
 # 📝 Publications 
 
-- [AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning](https://arxiv.org/abs/2403.09113), Ruiyi Zhang<sup>*</sup>, Rushi Qiang<sup>*</sup>, Sai Ashish Somayajula, Pengtao Xie, **NAACL 2024**
-- [HYDRA: Model Factorization Framework for Black-Box LLM Personalization] (https://arxiv.org/abs/2406.02888), Yuchen Zhuang, Haotian Sun, Yue Yu, Rushi Qiang, Qifan Wang, Chao Zhang, Bo Dai, **NeurIPS 2024**
-- [BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models] (https://arxiv.org/abs/2403.13037), Rushi Qiang<sup>*</sup>, Ruiyi Zhang<sup>*</sup>, Pengtao Xie
+- [AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning](https://arxiv.org/abs/2403.09113), Ruiyi Zhang<sup>*</sup>, Rushi Qiang<sup>*</sup>, Sai Ashish Somayajula, Pengtao Xie. **NAACL 2024**
+- [HYDRA: Model Factorization Framework for Black-Box LLM Personalization] (https://arxiv.org/abs/2406.02888), Yuchen Zhuang, Haotian Sun, Yue Yu, Rushi Qiang, Qifan Wang, Chao Zhang, Bo Dai. **NeurIPS 2024**
+- [BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models] (https://arxiv.org/abs/2403.13037), Rushi Qiang<sup>*</sup>, Ruiyi Zhang<sup>*</sup>, Pengtao Xie. *Preprint*
+- [Matryoshka: Learning to Drive Black-Box LLMs with LLMs] (https://arxiv.org/abs/2410.20749), Changhao Li, Yuchen Zhuang, Rushi Qiang, Haotian Sun, Hanjun Dai, Chao Zhang, Bo Dai. *Preprint*
+- [Language Model Uncertainty Quantification with Attention Chain] (https://arxiv.org/abs/2503.19168), Yinghao Li, Rushi Qiang, Lama Moukheiber, Chao Zhang. *Preprint*
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - present*, Georgia Tech Machine Learning PhD student. 
+- *2020.09 - 2024.06*, B.Eng. in Automation, Tsinghua University.. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
