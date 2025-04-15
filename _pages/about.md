@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first year PhD student @GeorgiaTech, co-advised by [Bo Dai](https://bo-dai.github.io/) and [Chao Zhang](https://bo-dai.github.io/). Before this, I graduated with a Bachelor's degree from Tsinghua University.
+I'm a first year PhD student @GeorgiaTech, co-advised by [Bo Dai](https://bo-dai.github.io/) and [Chao Zhang](http://chaozhang.org/). Before this, I graduated with a Bachelor's degree from Tsinghua University.
 
 My research interest includes LLM, Modular Learning and AI Agents.
 
@@ -26,7 +26,7 @@ My research interest includes LLM, Modular Learning and AI Agents.
 - *2025.04*: Stay tuned! 
 
 
-# 📝 Publications 
+# 📝 Publications and Preprints
 
 - [AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning](https://arxiv.org/abs/2403.09113), Ruiyi Zhang<sup>*</sup>, Rushi Qiang<sup>*</sup>, Sai Ashish Somayajula, Pengtao Xie. **NAACL 2024**
 - [HYDRA: Model Factorization Framework for Black-Box LLM Personalization](https://arxiv.org/abs/2406.02888), Yuchen Zhuang, Haotian Sun, Yue Yu, Rushi Qiang, Qifan Wang, Chao Zhang, Bo Dai. **NeurIPS 2024**
