@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first year PhD student @GeorgiaTech, co-advised by Bo Dai and Chao Zhang. Before this, I graduated with a Bachelor's degree from Tsinghua University.
+I'm a first year PhD student @GeorgiaTech, co-advised by [Bo Dai](https://bo-dai.github.io/) and [Chao Zhang](https://bo-dai.github.io/). Before this, I graduated with a Bachelor's degree from Tsinghua University.
 
 My research interest includes LLM, Modular Learning and AI Agents.
 
