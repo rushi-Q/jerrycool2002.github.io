@@ -23,16 +23,20 @@ My research interest includes LLM, Modular Learning and AI Agents.
 
 
 # 🔥 News
-- *2025.04*: Stay tuned! 
 
+- **May 2025** — [**MLE-Dojo Released!**](https://mle-dojo.github.io/MLE-Dojo-page/)  
+  A new gym for benchmarking and training AI agents on real-world MLE tasks!
+
+- **May 2025** — [**InF-Embed Released!**](https://arxiv.org/pdf/2505.21439)  
+  A large-scale, high-quality training corpus tailored for enhancing retrieval models in Instruction-Following IR and various training recipe!
 
 # 📝 Publications and Preprints
-
+- [MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering](https://arxiv.org/pdf/2505.07782), Rushi Qiang<sup>*</sup>, Yuchen Zhuang<sup>*</sup>, Yinghao Li, Dingu Sagar V K, Rongzhi Zhang, Changhao Li, Ian Shu-Hei Wong, Sherry Yang, Percy Liang, Chao Zhang, Bo Dai. Preprints.
+- [Towards Better Instruction Following Retrieval Models](https://arxiv.org/pdf/2505.21439), Yuchen Zhuang<sup>*</sup>, Aaron Trinh<sup>*</sup>, Rushi Qiang<sup>*</sup>, Haotian Sun, Chao Zhang, Hanjun Dai, Bo Dai. Preprints.
 - [AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning](https://arxiv.org/abs/2403.09113), Ruiyi Zhang<sup>*</sup>, Rushi Qiang<sup>*</sup>, Sai Ashish Somayajula, Pengtao Xie. **NAACL 2024**
 - [HYDRA: Model Factorization Framework for Black-Box LLM Personalization](https://arxiv.org/abs/2406.02888), Yuchen Zhuang, Haotian Sun, Yue Yu, Rushi Qiang, Qifan Wang, Chao Zhang, Bo Dai. **NeurIPS 2024**
-- [BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models](https://arxiv.org/abs/2403.13037), Rushi Qiang<sup>*</sup>, Ruiyi Zhang<sup>*</sup>, Pengtao Xie.
-- [Matryoshka: Learning to Drive Black-Box LLMs with LLMs](https://arxiv.org/abs/2410.20749), Changhao Li<sup>*</sup>, Yuchen Zhuang<sup>*</sup>, Rushi Qiang, Haotian Sun, Hanjun Dai, Chao Zhang, Bo Dai.
-- [Language Model Uncertainty Quantification with Attention Chain](https://arxiv.org/abs/2503.19168), Yinghao Li, Rushi Qiang, Lama Moukheiber, Chao Zhang.
+- [Matryoshka: Learning to Drive Black-Box LLMs with LLMs](https://arxiv.org/abs/2410.20749), Changhao Li<sup>*</sup>, Yuchen Zhuang<sup>*</sup>, Rushi Qiang, Haotian Sun, Hanjun Dai, Chao Zhang, Bo Dai. Preprints.
+- [Language Model Uncertainty Quantification with Attention Chain](https://arxiv.org/abs/2503.19168), Yinghao Li, Rushi Qiang, Lama Moukheiber, Chao Zhang. Preprints.
 
 # 📖 Educations
 - *2024.08 - present*, Georgia Tech Machine Learning PhD student. 
