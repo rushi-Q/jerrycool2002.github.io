@@ -28,7 +28,7 @@ My research interest includes LLM, Modular Learning and AI Agents.
   A new gym for benchmarking and training AI agents on real-world MLE tasks!
 
 - **May 2025** — [**InF-Embed Released!**](https://arxiv.org/pdf/2505.21439)  
-  A large-scale, high-quality training corpus tailored for enhancing retrieval models in Instruction-Following IR and various training recipe!
+  A large-scale, high-quality training corpus and a training recipe tailored for enhancing retrieval models in Instruction-Following IR!
 
 # 📝 Publications and Preprints
 - [MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering](https://arxiv.org/pdf/2505.07782), Rushi Qiang<sup>*</sup>, Yuchen Zhuang<sup>*</sup>, Yinghao Li, Dingu Sagar V K, Rongzhi Zhang, Changhao Li, Ian Shu-Hei Wong, Sherry Yang, Percy Liang, Chao Zhang, Bo Dai. Preprints.
